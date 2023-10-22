@@ -1,7 +1,0 @@
-SF_LOGIN_URL='https://test.salesforce.com/'
-SF_API_VERSION='55.0'
-SF_USERNAME='test-r1f8fcqxf0xe@example.com'
-SF_PASSWORD='d7bmnss^Ererg'
-SF_TOKEN='Cw2AiLSQLzhan0hLq3dOhEud'
-QUIZ_API_KEY='NT(!Y_[4t@:K<A^Bp=H9;f'
-COLLECT_PLAYER_EMAILS='false'
